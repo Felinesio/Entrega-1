@@ -86,3 +86,13 @@
 
 - Sintetizando un poco lo que comenté en los puntos anteriores, creo que aprenderé mucho sobre estas especies, ya que usualmente siempre se sabe de los felinos como los típicos gatos hogareños, pero no mucho más. Por ello es una buena oportunidad para conocer a fondo sobre los felinos silvestres y cuál es su estado en nuestro país mientras que, al mismo tiempo, conocemos si están o no en peligro de extinción y qué podemos hacer para ayudarles.
 
+
+
+##### Francisca Aqueveque 
+* Es relevante realizar una investigación sobre estos felinos silvestres porque son especies que contribuyen dentro de un ecosistema, como por ejemplo en el control de plagas de roedores silvestres. Su acción reguladora dentro de una cadena alimenticia es fundamental para los ecosistemas que habitan.
+  
+* Mi meta es revelar e intentar aproximar un % de la población de cada una de las especies. Espero generar conciencia a quienes no estan familiarizados con estos gatitos. Ampliar el acceso de datos a quienes esten interesados en el estudio de las especies en areas silvestres protegidas.
+  
+* Me gustaría elaborar un mapa interactivo que permita filtrar según especie, región, etc. Realizar y publicar entrevistas en formato vídeo de quienes se dedican en terreno a la conservación del patrimonio cultural; testimonios desde su propio trabajo en terreno. Y la recolección de imagenes, audio o demás material que se relacione con los felinos.
+  
+* Me propongo aprender sobre los gatos silvestres y su conservación. Fomentar el apoyo a fundaciones que se dedican a preservar a especies silvestres. Lograr sintetizar y comunicar en espacios digitales de manera atractiva. Proporcionar materiales descargables que sean de acceso gratuito y descargables. 
