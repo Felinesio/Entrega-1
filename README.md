@@ -1,7 +1,7 @@
 # Propuesta de investigación 
 ## Felinos endémicos en Chile
 
-##### Hipótesis: Nuestra idea principal es mostrar la variedad de especies de felinos endémicos existentes en nuestro país de manera gráfica y extensa. Además, desvelar cuáles de ellos se encuentran en peligro de extinción e información sobre su futuro. 
+##### Hipótesis: Hipótesis: El hábitat y población de diferentes felinos endémicos de Chile se ha visto reducido por la acción humana. Por lo que es importante dar a conocer a estos felinos y sus formas de preservación. 
 
 ## Explicación del proyecto y propuesta de investigación
 
