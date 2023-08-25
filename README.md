@@ -37,9 +37,18 @@
 6. Proyecciones a futuro sobre las especies en nuestro país.
 7. Como se ha trabajado en materia gubernametal el tema
 
+## Base de datos inicial: http://especies.mma.gob.cl/CNMWeb/Web/WebCiudadana/especies_endemicas.aspx | http://especies.mma.gob.cl/CNMWeb/Web/WebCiudadana/especies_amenazadas.aspx | https://www.sag.gob.cl/content/especies-prohibidas-de-caza-y-captura | https://www.sag.cl/sites/default/files/diagnostico_del_estado_poblacional_del_puma_y_evaluacion_de_corrales_para_el_ganado_domestico_provincia_de_parinacota_region_de_arica.pdf | https://gatoandino.org/biblioteca/ | https://revistacajondelmaipo.cl/2022/11/11/gato-andino-se-abre-un-nuevo-capitulo-para-el-estudio-del-gato-sagrado-de-los-andes-en-la-zona-central-de-chile/#:~:text=Si%20bien%20no%20hay%20una,de%2020%20a%C3%B1os%20en%20la | https://gatoandino.org/gato-andino/#:~:text=Es%20una%20especie%20con%20densidades,menos%20de%201400%20individuos%20adultos | https://clasificacionespecies.mma.gob.cl/wp-content/uploads/2019/10/Leopardus_geoffroyi_P07.pdf | https://clasificacionespecies.mma.gob.cl/wp-content/uploads/2019/10/Leopardus_guigna_P07.pdf | https://clasificacionespecies.mma.gob.cl/wp-content/uploads/2019/10/Ficha_Web_GATOCOLOCOLO.pdf | 
 
-## Base de datos inicial: http://especies.mma.gob.cl/CNMWeb/Web/WebCiudadana/especies_endemicas.aspx | http://especies.mma.gob.cl/CNMWeb/Web/WebCiudadana/especies_amenazadas.aspx
+# Resultados previsibles: 
+* Con los datos que tenemos se puede contar como mínimo una historia de los felinos endemicos y amenzados de Chile, contemplando además sus características físicas. 
+* Con los datos que tenemos se puede abordar una historia caracterizando como máximo la distribución de los felinos en las distintas regiones, sus habitad y la cantidad de población actual de dichas especies. Pero además proponemos determinar formas de conservación enfatizando la prohibición de caza y captura de estos. 
+* Con los datos recolectados podemos responder a cuáles son sus zonas de distribución, cuál es su estado de conservación actual, cuánta es la población madura de cada especie y sus variaciones temporales, cómo se ven afectados por la acción humana, cuál es su clasificación táxonomica, si son considerados endemicos y/o amenazados, entre otras.
+  
+## Elementos digitales para narrar la historia 
+* Utilizaremos imagenes, mapas interactivos, animaciones 2D, animaciones 3D, vídeos, entre otros elementos. 
+* Debido a que son felinos silvestres y no es posible tener contacto con ellos por su naturaleza, son elementos que generarian cercanía con las especies permitiendo interactuar en todo momento con el contenido publicado. Nos proponemos mantener una estructura armoniosa y atractiva con dichos elementos para que el relato de nuestra investigación permita un conocimiento progresivo.
 
+  
 ### Otros datos útiles: 
  
  * https://www.chile.travel/sin-categorizar/felinos-nativos-de-chile-estos-son-nuestros-propios-gatos-grandes-2/
