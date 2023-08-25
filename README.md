@@ -93,6 +93,6 @@
   
 * Mi meta es revelar e intentar aproximar un % de la población de cada una de las especies. Espero generar conciencia a quienes no estan familiarizados con estos gatitos. Ampliar el acceso de datos a quienes esten interesados en el estudio de las especies en areas silvestres protegidas.
   
-* Me gustaría elaborar un mapa interactivo que permita filtrar según especie, región, etc. Realizar y publicar entrevistas en formato vídeo de quienes se dedican en terreno a la conservación del patrimonio cultural; testimonios desde su propio trabajo en terreno. Y la recolección de imagenes, audio o demás material que se relacione con los felinos.
+* Me gustaría elaborar un mapa interactivo que permita filtrar según especie, región, etc. Realizar y publicar entrevistas en formato vídeo de quienes se dedican en terreno a la conservación del patrimonio natural; testimonios desde su propio trabajo en terreno. Y la recolección de imagenes, audio o demás material que se relacione con los felinos.
   
 * Me propongo aprender sobre los gatos silvestres y su conservación. Fomentar el apoyo a fundaciones que se dedican a preservar a especies silvestres. Lograr sintetizar y comunicar en espacios digitales de manera atractiva. Proporcionar materiales descargables que sean de acceso gratuito y descargables. 
