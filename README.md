@@ -74,3 +74,15 @@
 4. Mostrar estadísticas que den cuenta del peligro de extinción u otras problemáticas
 * El aprendizaje de este trabajo creo será mas que nada sobre las características de estos felinos y las cifras relacionadas a el peligro que corren, debido a que son poco conocidos por los ciudadanos. Además me gustaría saber sobre las diferencias que existen entre un gato silvestre y un gato doméstico
 
+##### Felipe Bustos 
+
+- Este tema me parece relevante ya que una de las mejores formas de ampliar las probabilidades de supervivencia y no extinción de las especies de felinos silvestres es partiendo por lo más básico: la educación de las personas. Por ello, creo muy importante el crear una plataforma con una base de datos precisa que entregue toda la información sobre estos felinos.
+
+- Muy de la mano con el punto anterior, espero poder revelar las causas de que varias de estas especies se encuentren en peligro de extinción mientras que, en paralelo, podré saber más de estas especies. Con el hecho de generar conciencia y conocimiento colectivo en base a que nuestra información esté organizada de manera gráfica y visualmente clara, creo que lograremos generar un impacto por mínimo que sea.
+
+1. Infografías interactivas con información visual y textual de los felinos
+2. Contar historias visuales para mostrar el contexto bajo el cual estos animales han existido en nuestro país. 
+3. Sección de “conoce a”, donde se pueda saber detalles  sobre los felinos: alimentación, clima preferido, origen, árbol evolutivo, etc. 
+
+- Sintetizando un poco lo que comenté en los puntos anteriores, creo que aprenderé mucho sobre estas especies, ya que usualmente siempre se sabe de los felinos como los típicos gatos hogareños, pero no mucho más. Por ello es una buena oportunidad para conocer a fondo sobre los felinos silvestres y cuál es su estado en nuestro país mientras que, al mismo tiempo, conocemos si están o no en peligro de extinción y qué podemos hacer para ayudarles.
+
