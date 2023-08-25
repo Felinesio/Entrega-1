@@ -56,12 +56,12 @@
 
 * https://www.ecologiaverde.com/causas-y-consecuencias-de-la-caza-furtiva-de-animales-1121.html
 # Análisis crítico de cada miembro
-## Catalina Aliste
-##### -Me parece importante trabajar este tema principalmente porque existen razas de felinos silvestres chilenos que son mas bien desconocidos, los cuales algunos pueden ser emplazados de su hábitat natural debido a la intervención indiscriminada del ser humano en la naturaleza y que también se ven afectados por la caza. 
+##### Catalina Aliste  
+Me parece importante trabajar este tema principalmente porque existen razas de felinos silvestres chilenos que son mas bien desconocidos, los cuales algunos pueden ser emplazados de su hábitat natural debido a la intervención indiscriminada del ser humano en la naturaleza y que también se ven afectados por la caza. 
 Espero describir a determinadas especies felinas endémicas del país, su aspecto físico, alimentación, origen, lugar de Chile que habitan, entre otras cosas… además de crear un relato que cree preocupación y más atención ante la existencia de estos animales.
-•	1. Gráfica de mapa donde se indique en qué lugares habita cada felino
+1. Gráfica de mapa donde se indique en qué lugares habita cada felino
 2. Entrevista a activistas y expertos especializados en el tema
 3. Relacionar estos gatos a culturas ancestrales a través de leyendas o ritos
 4. Mostrar estadísticas que den cuenta del peligro de extinción u otras problemáticas
-•	El aprendizaje de este trabajo creo será mas que nada sobre las características de estos felinos y las cifras relacionadas a el peligro que corren, debido a que son poco conocidos por los ciudadanos. Además me gustaría saber sobre las diferencias que existen entre un gato silvestre y un gato doméstico
+El aprendizaje de este trabajo creo será mas que nada sobre las características de estos felinos y las cifras relacionadas a el peligro que corren, debido a que son poco conocidos por los ciudadanos. Además me gustaría saber sobre las diferencias que existen entre un gato silvestre y un gato doméstico
 
