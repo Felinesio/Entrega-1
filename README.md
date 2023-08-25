@@ -37,7 +37,7 @@
 6. Proyecciones a futuro sobre las especies en nuestro país.
 
 
-## Base de datos inicial: http://especies.mma.gob.cl/CNMWeb/Web/WebCiudadana/especies_endemicas.aspx
+## Base de datos inicial: http://especies.mma.gob.cl/CNMWeb/Web/WebCiudadana/especies_endemicas.aspx | http://especies.mma.gob.cl/CNMWeb/Web/WebCiudadana/especies_amenazadas.aspx
 
 ### Otros datos útiles: 
  
