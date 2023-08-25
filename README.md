@@ -11,12 +11,12 @@
 
 ##### El segundo punto va de la mano con el primero: el potencial de pasar la información textual a gráfica. Querémos seguir la dinámica de las infografías e información más amigable a nivel visual, además de organizarla de mejor manera para que sea más fácil de navegar. Cada especie puede dar mucho juego visual en ese sentido.
 
-##### Por último, nos interesa mucho darle mayor importancia a las especies felinas endémicas que están en peligro de extinción. Si bien hay información sobre cuáles están en peligro y cuales no, las cuales de momento sabemos que serían el gato andino y la guiña (a falta de investigar cómo ha evolucionado su situación en los últimos años, pues algunas bases de datos son del 2021) son las especies que más están en peligro. Sin embargo, muchas bases de datos se quedan meramente en el "están en peligro, cuidémoslas!". Queremos indagar más en ello, sobre el por qué están en peligro de extinción, cuál es su panorama para los años venideros, si alguna de las otras que no están en peligro corren el riesgo de que con el pasar de los años lo estén, etc. Queremos profundizar mucho más en un tema del que usualmente queda más en la superficie. 
+##### Por último, nos interesa mucho darle mayor importancia a las especies felinas endémicas que están en peligro de extinción. Queremos enseñar cualés especies existen pero también crear conciencia sobre la acción humana en el habitat de estos felinos. Si bien hay información sobre cuáles están en peligro y cuales no, las cuales de momento sabemos que serían el gato andino y la guiña (a falta de investigar cómo ha evolucionado su situación en los últimos años, pues algunas bases de datos son del 2021) son las especies que más están en peligro, que el ministerio a denominado como "especie casi amenazada". Muchas bases de datos se quedan meramente en el "están en peligro, cuidémoslas!". Queremos indagar más en ello, sobre el por qué están en peligro de extinción, cuál es su panorama para los años venideros, si alguna de las otras que no están en peligro corren el riesgo de que con el pasar de los años lo estén, etc. Queremos profundizar mucho más en un tema del que usualmente queda más en la superficie. 
 
 
 # Antecedentes
 
-##### Como indicamos con anterioridad, mucha de la información y datos que disponemos son por parte del Ministerio de Medio Ambiente. También hay algunas fuentes de noticias que informan sobre los felinos en peligro de extinción y en Chileestuyo.cl también hay información valiosa. La gran mayoría de estos datos son cualitativos, ya que son muy descriptivos en torno a la información de los felinos. Tambien hay algunos cuantitativos, como cuando se manejan lo números de especies en el país. 
+##### Como indicamos con anterioridad, mucha de la información y datos que disponemos son por parte del Ministerio de Medio Ambiente. También hay algunas fuentes de noticias que informan sobre los felinos en peligro de extinción y en Chileestuyo.cl también hay información valiosa. La gran mayoría de estos datos son cualitativos, ya que son muy descriptivos en torno a la información de los felinos. Tambien hay algunos cuantitativos, como cuando se manejan lo números de especies en el país. Igualmente, con el tiempo que tendremos para la investigación, nos gustaría entrevistar a expertos biólogos que se han especializado en felinos.  
 
 # Sobre el trabajo de los datos
 
@@ -30,11 +30,12 @@
 
 * En suma, necesitamos:
 1. Lista de felinos y felinos endémicos en Chile
-2. Felinos y felinos endémicos en peligro de extinción en Chile
-3. Toda la información geográfica y de habitat sobre las especies. 
+2. Felinos, felinos endémicos en peligro de extinción en Chile y amenazados
+3. Toda la información geográfica y de habitat sobre las especies y aparte como se han visto afectadas por acción humana 
 4. Toda la información de características particulares de las especies para generar infografías muy completas sobre cada una.
 5. Causas de su riesgo de extinción.
 6. Proyecciones a futuro sobre las especies en nuestro país.
+7. Como se ha trabajado en materia gubernametal el tema
 
 
 ## Base de datos inicial: http://especies.mma.gob.cl/CNMWeb/Web/WebCiudadana/especies_endemicas.aspx | http://especies.mma.gob.cl/CNMWeb/Web/WebCiudadana/especies_amenazadas.aspx
@@ -54,3 +55,13 @@
 * https://www.eldesconcierto.cl/bienes-comunes/2023/06/02/sorprendente-y-preocupante-avistan-un-gato-andino-en-colegio-de-san-felipe.html 
 
 * https://www.ecologiaverde.com/causas-y-consecuencias-de-la-caza-furtiva-de-animales-1121.html
+# Análisis crítico de cada miembro
+## Catalina Aliste
+##### -Me parece importante trabajar este tema principalmente porque existen razas de felinos silvestres chilenos que son mas bien desconocidos, los cuales algunos pueden ser emplazados de su hábitat natural debido a la intervención indiscriminada del ser humano en la naturaleza y que también se ven afectados por la caza. 
+Espero describir a determinadas especies felinas endémicas del país, su aspecto físico, alimentación, origen, lugar de Chile que habitan, entre otras cosas… además de crear un relato que cree preocupación y más atención ante la existencia de estos animales.
+•	1. Gráfica de mapa donde se indique en qué lugares habita cada felino
+2. Entrevista a activistas y expertos especializados en el tema
+3. Relacionar estos gatos a culturas ancestrales a través de leyendas o ritos
+4. Mostrar estadísticas que den cuenta del peligro de extinción u otras problemáticas
+•	El aprendizaje de este trabajo creo será mas que nada sobre las características de estos felinos y las cifras relacionadas a el peligro que corren, debido a que son poco conocidos por los ciudadanos. Además me gustaría saber sobre las diferencias que existen entre un gato silvestre y un gato doméstico
+
