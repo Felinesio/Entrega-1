@@ -3,6 +3,9 @@
 
 ##### Hipótesis: Hipótesis: El hábitat y población de diferentes felinos endémicos de Chile se ha visto reducido por la acción humana. Por lo que es importante dar a conocer a estos felinos y sus formas de preservación. 
 
+### Link a video de youtube: https://www.youtube.com/watch?v=XzXbfXb2o5s&ab_channel=FRANCISCAAQUEVEQUE
+### Link a presentación: https://www.canva.com/design/DAFsa2vvCN8/0IBgZPhW_LfhEYsL5tYRQA/edit?utm_content=DAFsa2vvCN8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ## Explicación del proyecto y propuesta de investigación
 
 ##### Históricamente Chile se ha caracterizado por poseer una diversa fauna a lo largo de todo el país de diferentes especies. 
